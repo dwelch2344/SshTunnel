@@ -1,0 +1,7 @@
+host=davidwelch.co
+port=22999
+user=dwelch
+password=
+fwd.lport=9999
+fwd.dest=google.com
+fwd.destPort=80
